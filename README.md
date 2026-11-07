@@ -3,9 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Parth%20Sharma&fontSize=52&fontColor=e6edf3&fontAlignY=35&desc=Data%20%E2%80%A2%20Code%20%E2%80%A2%20Create&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" alt="header"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Data+Science+Student+%F0%9F%93%8A;Full+Stack+Developer+%F0%9F%92%BB;Aspiring+AI%2FML+Engineer+%F0%9F%A4%96;YouTuber+%40+Datapocalypse+%F0%9F%8E%A5;Builder+of+things+students+love+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img width="90%" src="https://raw.githubusercontent.com/DataSage-Parth/DataSage-Parth/main/assets/profile-terminal.svg" alt="Terminal: Parth Sharma, Data Science student, full stack developer, aspiring AI/ML engineer, YouTuber at Datapocalypse. Stack, git log and current focus."/>
 
 <br/><br/>
 
