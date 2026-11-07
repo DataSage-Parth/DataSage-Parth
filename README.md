@@ -80,16 +80,6 @@ Currently focused on the AI/ML engineering side of things — model pipelines, d
 
 <br/>
 
-## 📅 2026 Contributions
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DataSage-Parth&bg_color=0d1117&color=a78bfa&line=6e40c9&point=a78bfa&area=true&area_color=6e40c9&hide_border=true&from=2026-01-01&to=2026-12-31&title_color=a78bfa" alt="2026 Contribution Graph"/>
-
-</div>
-
-<br/>
-
 ---
 
 ## 🚀 Featured Project — VivaVault
